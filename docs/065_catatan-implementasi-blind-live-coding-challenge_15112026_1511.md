@@ -3,8 +3,10 @@
 > Disimpan: 15-11-2026 15:11 WIB (+07).
 > Branch kerja: `arena/bb025040-codeshark-qwen3-8max2` (dari `main` @ `d52c04e`).
 > Rancangan: [`052`](./052_rencana-blind-live-coding-challenge-tahap-1-pemicu_13112026_2145.md).
-> Status: **dibangun dan diuji di Chromium headless.** Belum diuji pada murid,
-> belum diuji di Firefox/Safari, belum diuji dengan sinkron cloud.
+> Status: **selesai dan sudah digabung ke `main`** lewat PR #18 (commit `e77ba04`,
+> gabung `51d13de`, 15-11-2026 16:49 WIB). Diuji di Chromium headless. Belum diuji
+> pada murid, belum diuji di Firefox/Safari, belum diuji dengan sinkron cloud.
+> Rekap seluruh pekerjaan 13–15 November: `docs/066_…`.
 
 ---
 
